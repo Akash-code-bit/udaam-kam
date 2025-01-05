@@ -30,7 +30,7 @@ The Key Account Manager (KAM) Lead Management System is designed for B2B e-comme
 
 * Clone the Repository:
 
->git clone <repository_url>
+>git clone https://github.com/Akash-code-bit/udaam-kam.git
 >
 >cd kam-lead-mgmt``
 
